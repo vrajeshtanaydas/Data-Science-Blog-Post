@@ -38,7 +38,9 @@ This is an Udacity Nanodegree project.I was interested in using Stackoverflow De
 **data/2018/survey_results_public.csv**: Stackoverflow's 2018 Annual Developer Survey data. </br>
 
 ## Results <a name="results"></a>
-The main findings of the code can be found at the post available [here](https://medium.com/@ericvenarusso2/what-are-the-most-common-programming-languages-used-in-brazil-8d630b76df2f)
+The main findings of the code can be found at the post available [here](
+https://medium.com/@viveknakhate007/which-common-programming-languages-used-in-brazil-b7a89c16a544
+)
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
